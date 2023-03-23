@@ -1,6 +1,7 @@
 # Bookshop Management System
 
 It is a java based Project which uses Mysql to manage the book purchasing processes.
+
 The GUI is implemented using Swing for better user interface.
 
 Screenshots:
